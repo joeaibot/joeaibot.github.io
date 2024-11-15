@@ -187,14 +187,8 @@ p   {
 
 /* headshots */
 
-.Elio    {
-  position: absolute;
-  bottom: 0px;
-  left: 220px;
-  width: 550px;
-  height: 400px;
-}
 
+@MEDIA(max-width: 576px)
 .Joe    {
     position: absolute;
     bottom: 0px;
@@ -202,7 +196,7 @@ p   {
     width: 500px;
     height: 350px;  
   }
-
+@MEDIA(max-width: 576px)
   .Gavin   {
     position: absolute;
     bottom: 0px;
